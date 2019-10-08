@@ -13,7 +13,6 @@ Accepted pre-prints:
 **Multimodal neuroimaging measures and intelligence influence pedophile child sexual offense behavior.** Lett TA, Mohnke S, Amelung T, Brandl EJ, Schiltz K, Pohl A, Gerwinn H, Kärgel C, Massau C, Tenbergen G, Wittfoth M, Kneer J, Beier KM, Walter M, Ponseti J, Krüger THC, Schiffer B, Walter H. *Eur Neuropsychopharmacol.* 2018 Jul;28(7):818-827 doi: 10.1016/j.euroneuro.2018.05.002
 
 
-
 #### [3] Vogel_Lett_et_al_SczResearch_2018
 [[Article](https://www.sciencedirect.com/science/article/abs/pii/S0920996417305923?via%3Dihub)
 [[Manuscript](Vogel_Lett_et_al_SczResearch_2018/MIR137_Manuscript_Revised.doc)]
@@ -27,3 +26,10 @@ Accepted pre-prints:
 **Cortical surface-based threshold-free cluster enhancement and cortexwise mediation.** Lett TA, Waller L, Tost H, Veer IM, Nazeri A, Erk S, Brandl EJ, Charlet K, Beck A, Vollstädt-Klein S, Jorde A, Kiefer F, Heinz A, Meyer-Lindenberg A, Chakravarty MM, Walter H. *Hum Brain Mapp.* 2017 Jun;38(6):2795-2807. doi: 10.1002/hbm.23563.
 
 **Pharmacogenetics and Imaging-Pharmacogenetics of Antidepressant Response: Towards Translational Strategies.** Lett TA, Walter H, Brandl EJ. *CNS Drugs.* 2016 Dec;30(12):1169-1189.
+
+
+
+
+
+
+
