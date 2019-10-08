@@ -21,7 +21,7 @@ Some of my accepted pre-prints:
 [[Figure 2](Vogel_Lett_et_al_SczResearch_2018/Figure2.pdf)]
 
 
-**The influence of MIR137 on white matter fractional anisotropy and cortical surface area in individuals with familial risk for psychosis.** Vogel BO*, Lett TA*C, Erk S, Mohnke S, Wackerhagen C, Brandl EJ, Romanczuk-Seiferth N, Otto K, Schweiger JI, Tost H, Nöthen MM, Rietschel M, Degenhardt F, Witt SH, Meyer-Lindenberg A, Heinz A, Walter H.  *Schizophrenia Research* 195, 190-196. doi: 10.1016/j.schres.2017.09.030 *co-first author
+**The influence of MIR137 on white matter fractional anisotropy and cortical surface area in individuals with familial risk for psychosis.** Vogel BO*, Lett TA*, Erk S, Mohnke S, Wackerhagen C, Brandl EJ, Romanczuk-Seiferth N, Otto K, Schweiger JI, Tost H, Nöthen MM, Rietschel M, Degenhardt F, Witt SH, Meyer-Lindenberg A, Heinz A, Walter H.  *Schizophrenia Research* 195, 190-196. doi: 10.1016/j.schres.2017.09.030 *co-first author
 
 
 #### [4] Lett_et_al_HumBrainMapp_2017
