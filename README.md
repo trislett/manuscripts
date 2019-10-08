@@ -1,4 +1,4 @@
-#### Lett et al. Cerbral Cortex 2019
+#### [1] Lett et al. Cerbral Cortex 2019
 [[Manuscript](https://github.com/trislett/manuscripts/blob/master/Lett_et_al_Cerebral_Cortext_2019/MANUSCRIPT_one_file.pdf)]  [[Supplementary Information](https://github.com/trislett/manuscripts/blob/master/Lett_et_al_Cerebral_Cortext_2019/Supplementary_Material.docx)] [[Supplementary Table](https://github.com/trislett/manuscripts/blob/master/Lett_et_al_Cerebral_Cortext_2019/Supplementary_Tables_PDF.pdf)] [[Online Supplementary Data](https://github.com/bobvogel/g-factor-mediation)]
 
 
