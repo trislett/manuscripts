@@ -14,8 +14,13 @@ Accepted pre-prints:
 
 
 
+#### [3] Vogel_Lett_et_al_SczResearch_2018
+[[Article](https://www.sciencedirect.com/science/article/abs/pii/S0920996417305923?via%3Dihub)
+[[Manuscript](Vogel_Lett_et_al_SczResearch_2018/MIR137_Manuscript_Revised.doc)]
+[[Supplementary Information](Vogel_Lett_et_al_SczResearch_2018/MIR137_Supplemental_Material_Revised.docx)]
+[[Figure 1](Vogel_Lett_et_al_SczResearch_2018/Figure1.pdf)]
+[[Figure 2](Vogel_Lett_et_al_SczResearch_2018/Figure2.pdf)]
 
-#### [2] Vogel_Lett_et_al_SczResearch_2018
 
 **The influence of MIR137 on white matter fractional anisotropy and cortical surface area in individuals with familial risk for psychosis.** Vogel BO*, Lett TA*C, Erk S, Mohnke S, Wackerhagen C, Brandl EJ, Romanczuk-Seiferth N, Otto K, Schweiger JI, Tost H, Nöthen MM, Rietschel M, Degenhardt F, Witt SH, Meyer-Lindenberg A, Heinz A, Walter H.  *Schizophrenia Research* 195, 190-196. doi: 10.1016/j.schres.2017.09.030
 '*' co-first author
