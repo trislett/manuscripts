@@ -14,7 +14,7 @@ Accepted pre-prints:
 
 
 #### [3] Vogel_Lett_et_al_SczResearch_2018
-[[Article](https://www.sciencedirect.com/science/article/abs/pii/S0920996417305923?via%3Dihub)
+[[Article](https://www.sciencedirect.com/science/article/abs/pii/S0920996417305923?via%3Dihub)]
 [[Manuscript](Vogel_Lett_et_al_SczResearch_2018/MIR137_Manuscript_Revised.doc)]
 [[Supplementary Information](Vogel_Lett_et_al_SczResearch_2018/MIR137_Supplemental_Material_Revised.docx)]
 [[Figure 1](Vogel_Lett_et_al_SczResearch_2018/Figure1.pdf)]
