@@ -23,9 +23,23 @@ Accepted pre-prints:
 
 **The influence of MIR137 on white matter fractional anisotropy and cortical surface area in individuals with familial risk for psychosis.** Vogel BO*, Lett TA*C, Erk S, Mohnke S, Wackerhagen C, Brandl EJ, Romanczuk-Seiferth N, Otto K, Schweiger JI, Tost H, Nöthen MM, Rietschel M, Degenhardt F, Witt SH, Meyer-Lindenberg A, Heinz A, Walter H.  *Schizophrenia Research* 195, 190-196. doi: 10.1016/j.schres.2017.09.030 *co-first author
 
+
+#### [4] Lett_et_al_HumBrainMapp_2017
+[[TFCE_mediation website](https://github.com/trislett/TFCE_mediation)]
+[[Article](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.23563)]
+[[Manuscript](Lett_et_al_HumBrainMapp_2017/Lett_et_al_2017_HBM_Accepted.pdf)]
+[[Supplementary Information](Lett_et_al_HumBrainMapp_2017/Lett_et_al_2017_HBM_supporting_information.docx)]
+
+
 **Cortical surface-based threshold-free cluster enhancement and cortexwise mediation.** Lett TA, Waller L, Tost H, Veer IM, Nazeri A, Erk S, Brandl EJ, Charlet K, Beck A, Vollstädt-Klein S, Jorde A, Kiefer F, Heinz A, Meyer-Lindenberg A, Chakravarty MM, Walter H. *Hum Brain Mapp.* 2017 Jun;38(6):2795-2807. doi: 10.1002/hbm.23563.
 
-**Pharmacogenetics and Imaging-Pharmacogenetics of Antidepressant Response: Towards Translational Strategies.** Lett TA, Walter H, Brandl EJ. *CNS Drugs.* 2016 Dec;30(12):1169-1189.
+
+#### [5] Lett_et_al_CNS_Drugs_2016
+[[Article](https://link.springer.com/article/10.1007%2Fs40263-016-0385-9)]
+[[Manuscript](Lett_et_al_CNS_Drugs_2016/Manuscript.doc)]
+
+
+**Pharmacogenetics and Imaging-Pharmacogenetics of Antidepressant Response: Towards Translational Strategies.** Lett TA, Walter H, Brandl EJ. *CNS Drugs.* 2016 Dec;30(12):1169-1189. doi: 10.1007/s40263-016-0385-9
 
 
 
