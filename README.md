@@ -11,6 +11,7 @@ Some of my accepted pre-prints:
 
 **Cortical surfaces mediate the relationship between polygenic scores for intelligence and general intelligence.** Lett TA, Vogel BO, Ripke S, Wackerhagen C, Erk S, Awasthi S, Trubetskoy V, Brandl EJ, Mohnke S, Veer IM, Nöthen M, Rietschel M,  Degenhardt F, Romanczuk-Seiferth N, Witt SH, Banaschewski T, Bokde ALW, Büchel C, Quinlan EB, Desrivières S, Flor H, Frouin V, Garavan H, Gowland P, Ittermann B, Martinot J, Martinot MP, Nees F, Orfanos DP, Paus T, Poustka L, Fröhner J, Smolka MN, Whelan R, Schumann G, IMAGEN consortium, Tost H,  Meyer-Lindenberg A, Heinz A, Walter H. *Cerebral Cortex*.  (Accepted)
 
+<<<<<<< HEAD
 ```
 Abstract
 
@@ -20,6 +21,9 @@ Recent large-scale, genome-wide association studies (GWAS) have identified hundr
 ---
 
 #### [2] Lett_et_al_EuroNPP_2018
+=======
+#### [2] Lett et al. EuroNPP 2018
+>>>>>>> 03c2c05f8734dde0df4460b1890b77e08d02c9d8
 [[Article](https://www.sciencedirect.com/science/article/abs/pii/S0924977X18301172?via%3Dihub)] [[Manuscript](https://github.com/trislett/manuscripts/blob/master/Lett_et_al_EuroNPP_2018/Manuscript.doc)]  [[Supplementary Information](https://github.com/trislett/manuscripts/blob/master/Lett_et_al_EuroNPP_2018/Supplemental_Material.docx)] [[Figure 1](https://github.com/trislett/manuscripts/blob/master/Lett_et_al_EuroNPP_2018/Figure1.tif)] [[Figure 2](https://github.com/trislett/manuscripts/blob/master/Lett_et_al_EuroNPP_2018/Figure2.tif)] [[Figure 3](https://github.com/trislett/manuscripts/blob/master/Lett_et_al_EuroNPP_2018/Figure3.tif)] [[Figure 4](https://github.com/trislett/manuscripts/blob/master/Lett_et_al_EuroNPP_2018/Figure4.tif)]
 
 
@@ -27,7 +31,7 @@ Recent large-scale, genome-wide association studies (GWAS) have identified hundr
 
 ---
 
-#### [3] Vogel_Lett_et_al_SczResearch_2018
+#### [3] Vogel, Lett et al. SczResearch 2018
 [[Article](https://www.sciencedirect.com/science/article/abs/pii/S0920996417305923?via%3Dihub)]
 [[Manuscript](Vogel_Lett_et_al_SczResearch_2018/MIR137_Manuscript_Revised.doc)]
 [[Supplementary Information](Vogel_Lett_et_al_SczResearch_2018/MIR137_Supplemental_Material_Revised.docx)]
@@ -39,7 +43,7 @@ Recent large-scale, genome-wide association studies (GWAS) have identified hundr
 
 ---
 
-#### [4] Lett_et_al_HumBrainMapp_2017
+#### [4] Lett et al. HumBrainMapp 2017
 [[TFCE_mediation website](https://github.com/trislett/TFCE_mediation)]
 [[Article](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.23563)]
 [[Manuscript](Lett_et_al_HumBrainMapp_2017/Lett_et_al_2017_HBM_Accepted.pdf)]
@@ -50,7 +54,7 @@ Recent large-scale, genome-wide association studies (GWAS) have identified hundr
 
 ---
 
-#### [5] Lett_et_al_CNS_Drugs_2016
+#### [5] Lett et al. CNS Drugs 2016
 [[Article](https://link.springer.com/article/10.1007%2Fs40263-016-0385-9)]
 [[Manuscript](Lett_et_al_CNS_Drugs_2016/Manuscript.doc)]
 
